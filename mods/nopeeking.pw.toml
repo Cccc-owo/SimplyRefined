@@ -1,0 +1,13 @@
+name = "No Peeking!"
+filename = "no-peeking-1.2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LMoBD2pV/versions/xejkt6Ul/no-peeking-1.2.4.jar"
+hash-format = "sha512"
+hash = "1ebad022750dc288d5cdde183bbf9a66eb16e636f5d4d7ba6a8906acc43ebe8fd346548eaa2637968ef29280060d4f1db663db7ae8528fb4819c496ca2483ba0"
+
+[update]
+[update.modrinth]
+mod-id = "LMoBD2pV"
+version = "xejkt6Ul"

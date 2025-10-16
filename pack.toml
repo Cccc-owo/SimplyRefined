@@ -1,0 +1,13 @@
+name = "SimplyRefined"
+author = "Cccc_"
+version = "v2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "124d85621dc0963394d7b73058a90b436580d6bf74ad191a31f3af9b82050c88"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.4"

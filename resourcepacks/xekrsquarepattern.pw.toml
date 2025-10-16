@@ -1,0 +1,13 @@
+name = "Squareful"
+filename = "Squareful 方纹v3.8 for MC 1.20.2~1.21.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rq4lDGdf/versions/SbOQeT4B/Squareful%20%E6%96%B9%E7%BA%B9v3.8%20for%20MC%201.20.2~1.21.8.zip"
+hash-format = "sha512"
+hash = "c4ad12d5639adc577786e26a88f238e42143bff7f14ddd12ddce3971e12cc12e83e71cb765bb0b49f800fa4277508a5753e754e77eff0158c1c73b4a10f54043"
+
+[update]
+[update.modrinth]
+mod-id = "rq4lDGdf"
+version = "SbOQeT4B"

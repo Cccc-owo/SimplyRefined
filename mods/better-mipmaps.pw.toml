@@ -1,0 +1,13 @@
+name = "Better Mipmaps"
+filename = "better-mipmaps-0.2-1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/daZwiCIT/versions/d9GLrFyi/better-mipmaps-0.2-1.21.4.jar"
+hash-format = "sha512"
+hash = "2b657174876883ce1e08c00b926326db3df1d6715b5428892dd2de7355fd2087c3044807a0045ac4440adc3aa1174540d424d405c43d8e6710f4a69bc60de618"
+
+[update]
+[update.modrinth]
+mod-id = "daZwiCIT"
+version = "d9GLrFyi"

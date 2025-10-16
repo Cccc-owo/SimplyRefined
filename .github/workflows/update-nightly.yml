@@ -1,0 +1,36 @@
+name: update-nightly
+
+on:
+  #runs at 7:00 UTC every day
+  #7:00 UTC = 15:00 CST (China Standard Time)
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: windows-latest
+    permissions: write-all
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Switch branch
+        run: |
+          git checkout -b nightly-update
+
+      - name: Update
+        run: |
+          ./packwiz.exe update -a -y
+
+      - name: Setup git user
+        uses: fregante/setup-git-user@v2
+
+      - name: Commit Changes & Push to Remote Branch
+        run: |
+          git add -A
+          git commit -m "upd: update mods nightly"
+          git push -u origin nightly-update -f
