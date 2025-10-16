@@ -1,13 +1,13 @@
 name = "Masa Family Bucket Translation Pack"
-filename = "masa-mods-chinese.zip"
+filename = "1.20-masa-mods-chinese.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IEt3hTCe/versions/mFBJdNdf/masa-mods-chinese.zip"
+url = "https://cdn.modrinth.com/data/IEt3hTCe/versions/J8iptRRF/1.20-masa-mods-chinese.zip"
 hash-format = "sha512"
-hash = "4bb363946a698a20b7f3911dd1b3086c38f7c7d08892ed15def97569c9d82e70b0711274a9d15b1d5ef0c68bd2e869e89a7979e39f21325f7b6b0cb1f2548ac1"
+hash = "e84faedeee3452fb9363d0f657bbf07b816dbf84511b2db435b02084b48714213def169b546d950342418f3ff3928fdb2c8291ae5505c5ec95d626825974acb4"
 
 [update]
 [update.modrinth]
 mod-id = "IEt3hTCe"
-version = "mFBJdNdf"
+version = "J8iptRRF"

@@ -6,15 +6,16 @@ cd mods
 ::DEL /F /S /Q mod.pw.toml
 DEL /F /S /Q carpet-fixes.pw.toml
 ::DEL /F /S /Q cit-resewn.pw.toml
-DEL /F /S /Q emi.pw.toml
+::DEL /F /S /Q emi.pw.toml
+DEL /F /S /Q justenoughcharacters.pw.toml
 DEL /F /S /Q litemoretica.pw.toml
 DEL /F /S /Q memoryleakfix.pw.toml
 ::DEL /F /S /Q moremcmeta.pw.toml
 DEL /F /S /Q nvidium.pw.toml
 ::DEL /F /S /Q obsidianui.pw.toml
-::DEL /F /S /Q rei.pw.toml
+DEL /F /S /Q rei.pw.toml
 ::DEL /F /S /Q tweakermore.pw.toml
-DEL /F /S /Q world-preview.pw.toml
+::DEL /F /S /Q world-preview.pw.toml
 
 ::Note:
 ::Refresh packwiz index

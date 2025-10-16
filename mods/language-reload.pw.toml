@@ -1,13 +1,13 @@
 name = "Language Reload"
-filename = "language-reload-1.7.4+1.21.4.jar"
+filename = "language-reload-1.7.4+1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/Y5DoDIMK/language-reload-1.7.4%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/tkqfgWVo/language-reload-1.7.4%2B1.20.4.jar"
 hash-format = "sha512"
-hash = "f62b281b2cc5fa1c1031a6cfd6d426902786c644543c5087492409d628d630174fa248257ce7aac7fb3b0a6135c71c474c3780185f2a1cf00a246cc94037602c"
+hash = "9191e5cf309cf946cb5f0c3c1a31349ef84414052b313f9aa789c82c9708fcaad6c71810b3cc6d0e6315e7cbeb843606c1ab851d07ed77e7d9ad101a830ae3ef"
 
 [update]
 [update.modrinth]
 mod-id = "uLbm7CG6"
-version = "Y5DoDIMK"
+version = "tkqfgWVo"

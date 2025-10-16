@@ -1,13 +1,13 @@
 name = "Odyssey Lite"
-filename = "odyssey-lite-4.1.1+1.21.2.jar"
+filename = "odyssey-lite-1.1.0+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kLpYA1ni/versions/jhJ0pnWf/odyssey-lite-4.1.1%2B1.21.2.jar"
+url = "https://cdn.modrinth.com/data/kLpYA1ni/versions/jTlxCa6J/odyssey-lite-1.1.0%2B1.20.jar"
 hash-format = "sha512"
-hash = "b66c5923df1c7218aef2c789ec32a48b75e27fe8b447d7729c1651cfe8de977f5ea7c1a1433d5df13ea143307e840186f7bd8de779ba885f922f12ad6f46db74"
+hash = "624f23dda0b8e770bc805d25c7a494d5c7867611f8dcca861c627c30530ad70c2f906e900f1871b5c781778e1e74d5a2875dc0e6bb8e2d6dd7fc54e80ce3f3c3"
 
 [update]
 [update.modrinth]
 mod-id = "kLpYA1ni"
-version = "jhJ0pnWf"
+version = "jTlxCa6J"
