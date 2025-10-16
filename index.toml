@@ -168,11 +168,6 @@ hash = "fd11eb18c1f2ae9210dbebcf7e4559f396d29a8feb3800989bcb2b1684468a05"
 metafile = true
 
 [[files]]
-file = "mods/custom-crosshair-mod.pw.toml"
-hash = "eb6d555198482fe65deffef231a950285711cda14304585bf95901304c6dcbeb"
-metafile = true
-
-[[files]]
 file = "mods/customskinloader.pw.toml"
 hash = "914308e89ec0783fc1e7a7192e5c7c5a49071905cf39f56d56823f95597bdefd"
 metafile = true
