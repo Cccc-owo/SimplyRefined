@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/chunksfadein.properties"
-hash = "73793a5bc35cd700ed27e305b494fcf3f9cc74f17f1b52d9a4a220b2814cfc7d"
+hash = "42ea69df39c67dd2f092d55dd44e0c99632eae0347060ada56908f7fc87dd3df"
 
 [[files]]
 file = "config/emi.css"
-hash = "3195827fa0516ed3d39a844e5640140a18d9969f5b2ce6d311ee65daed86ee73"
+hash = "3a7cde66b95eedb2bed744c61f690e83a82ee6ae9a39d0d3af693634f72b40ac"
 
 [[files]]
 file = "config/fabrishot.properties"
@@ -18,11 +18,11 @@ hash = "9455c9d63ba67fd65b7bce3e2d84a3aa06c30bfb7bed3f2b67b1175ed73b5db9"
 
 [[files]]
 file = "config/malilib.json"
-hash = "eee711c5f90e2539a8e41e4eb0c3e7dda62a2d62583d84a0adfd5c374bf071a7"
+hash = "c7486c0c1e198b7227066f1926389117aab9d4705aca3911ed3aceb450669e4b"
 
 [[files]]
 file = "config/minihud.json"
-hash = "ea5972450c9414100e0b140f150eb93082954817c7596bb0ae875704c031c76e"
+hash = "74d5302d9f913d4f503630f7ffe498d356d979251dfe74220a4646ce8988600e"
 
 [[files]]
 file = "config/paperdoll.json"
@@ -30,7 +30,7 @@ hash = "2f4c93cc09a1b194e78413326656e9a4c612daa3032ef2938d236a7d63265813"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "d1649362e922d1c99f31d51ff2a6cc97fe764123ea33e31178ecf0f2bc68229c"
+hash = "f35f9c77fc6446211b37a0b89c05d516e06431117f8c09e01e28a867bf47ada1"
 
 [[files]]
 file = "mods/allow-portal-guis.pw.toml"
@@ -165,11 +165,6 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "818af00629dcd460e125a076cfed4b293d3721807aed680496afefca9e215036"
-metafile = true
-
-[[files]]
-file = "mods/custom-crosshair-mod.pw.toml"
-hash = "b0c8bb4f09e0818abe09fb1812ab4f334787f2891ad8eb5dacd42cce6667dd3e"
 metafile = true
 
 [[files]]
@@ -584,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cd6003be1001baa0802c1efd413b99eacd1ad4d5230b4efde79e9355f257124f"
+hash = "af05d59fc802e190f68aebd03927f4d600e9e32be5a78664444031c3c07929f4"
 
 [[files]]
 file = "resourcepacks/f8thful.pw.toml"
