@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "914308e89ec0783fc1e7a7192e5c7c5a49071905cf39f56d56823f95597bdefd"
+hash = "5da71a1bb494f0209e1decf0e7d8abfdfa2fb54646ca1635235b1abcecf660e4"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "9a86f61fc86604d977b2aee4a2d20fd264d635060184be5183d8e7674e4fb912"
+hash = "5180fd4b0d4c721e38032574086d626a06cc956ee819695749e83c69cfbd82e0"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8080c0608b52d627d3e3c19c450a122373cd191ee763af8ede37245efa7b294e"
+hash = "59acb80ebca5ed43041c4a6637d342b7a416fa2c8df94f2a40ca4b8a9731e48a"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8e5864c60f22563c88de760e176309595f15b9b9112066e2318524b5110db633"
+hash = "9d92a0c8f5ee1308c04743c55c8187c478e45fe2a5c95d887d39fa61d1b8f8fb"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "34c8703d08c3fa2fbe24648fcc8f25431b2b141f7105b33c0924a515a97d8fd2"
+hash = "3dd9de964d8ad391f302b5f0d81e0c148c230fd3fc7e599fde52b8b1e59aafc6"
 metafile = true
 
 [[files]]
@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6bc81a7a9661255f377d079cbf140771a20cac5989f80d0e531ce3bc49d16dd2"
+hash = "b32ebcb677b2f788bb574d6df3c84e55e20728da976492b6906a4126b4efa560"
 metafile = true
 
 [[files]]
