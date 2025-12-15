@@ -34,7 +34,7 @@ jobs:
           call ./main.bat
 
       - name: Upload a Build Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           # Artifact name
           name: Modpack-Artifact # optional, default is artifact
