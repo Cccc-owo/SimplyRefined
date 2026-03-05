@@ -1,6 +1,6 @@
 name = "SimplyRefined"
 author = "Cccc_"
-version = "v2.0.0"
+version = "v2.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "c451b3a27af91129f8c96701fb993b948c4497857f1f43372aba84e4dffb33f7"
 
 [versions]
-fabric = "0.17.3"
+fabric = "0.18.4"
 minecraft = "1.21.4"
