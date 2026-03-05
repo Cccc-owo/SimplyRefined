@@ -1,13 +1,13 @@
 name = "JustEnoughCharacters"
-filename = "jecharacters-1.21.4-fabric-4.5.23.jar"
+filename = "jecharacters-1.21.10-fabric-4.6.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/I7k4B65h/versions/m0eIamKU/jecharacters-1.21.4-fabric-4.5.23.jar"
+url = "https://cdn.modrinth.com/data/I7k4B65h/versions/gYwLiKAp/jecharacters-1.21.10-fabric-4.6.0.jar"
 hash-format = "sha512"
-hash = "f37e3c6a376793c503848146a6863c55a61913520b53d004f659b488a9b54c7cb19dcac170169a8d1a8de90963d48b3689b789731015e411711b96778cf23c89"
+hash = "c6ad14fe640cc33950210b860dc1b10c2b07ed7ad562caa4a73bd4dd2d2b4a0ed33a9bac353eb5a4469b1116051890260e149caf1ab246f275ead7e2561a3c8c"
 
 [update]
 [update.modrinth]
 mod-id = "I7k4B65h"
-version = "m0eIamKU"
+version = "gYwLiKAp"

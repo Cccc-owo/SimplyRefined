@@ -1,13 +1,13 @@
 name = "Collision Fix"
-filename = "CollisionFix-1.0.1.jar"
+filename = "CollisionFix-1.1.0+1.21.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CBtq0jWL/versions/srnyGoVX/CollisionFix-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/CBtq0jWL/versions/oQZ7rvDu/CollisionFix-1.1.0%2B1.21.9.jar"
 hash-format = "sha512"
-hash = "e09978362bdebdc41bb2ff354106d021f6bef3c1bf06b217235f65478f5fd854a9f02cf8ff001121506f42422f10599792097e6611904f97362d3448a24169f6"
+hash = "98018b18c86403f1a0c5d5c9fb935aafab277255851ebb04e293b4719daed676be7b1d0acd9c765a16aec49d2b5747aee9ca57c23f34bd2cf453473861c0c7d6"
 
 [update]
 [update.modrinth]
 mod-id = "CBtq0jWL"
-version = "srnyGoVX"
+version = "oQZ7rvDu"

@@ -1,13 +1,13 @@
 name = "BoatView360"
-filename = "boatview360-v1.0.5-mc1.21.4-fabric.jar"
+filename = "boatview360-v1.0.5-mc1.21.10-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vqnOCHgM/versions/fYRO535R/boatview360-v1.0.5-mc1.21.4-fabric.jar"
+url = "https://cdn.modrinth.com/data/vqnOCHgM/versions/I16kzfuz/boatview360-v1.0.5-mc1.21.10-fabric.jar"
 hash-format = "sha512"
-hash = "cfb172b9cb20e1e98aa3cf6f0929713e1a9bfa126eb1cb36e369220331ba76c0553591eb2139ad2855b39e5f00cad96b763a515709d0ebf3e8a7808f740dda91"
+hash = "747fa9d4729859030ad1603359eff7bf2bd493ce368f911edd6f3df9150df7a1ddc357b6388f209cd3ed63ba10489a68221e7371f373bf296e4f047c30a8fa20"
 
 [update]
 [update.modrinth]
 mod-id = "vqnOCHgM"
-version = "fYRO535R"
+version = "I16kzfuz"
