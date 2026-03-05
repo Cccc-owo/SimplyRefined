@@ -4,14 +4,24 @@ cd mods
 
 ::Below are the incompatible ( maybe ) mods. It should be listed by alphabet.
 ::DEL /F /S /Q mod.pw.toml
+DEL /F /S /Q animatica.pw.toml
+DEL /F /S /Q carpet-extra.pw.toml
 DEL /F /S /Q carpet-fixes.pw.toml
 ::DEL /F /S /Q cit-resewn.pw.toml
+DEL /F /S /Q detail-armor-bar.pw.toml
+DEL /F /S /Q ebe.pw.toml
 DEL /F /S /Q emi.pw.toml
 DEL /F /S /Q litemoretica.pw.toml
+DEL /F /S /Q modernfix.pw.toml
 DEL /F /S /Q memoryleakfix.pw.toml
-::DEL /F /S /Q moremcmeta.pw.toml
+DEL /F /S /Q modern-ui.pw.toml
+DEL /F /S /Q moremcmeta.pw.toml
+DEL /F /S /Q noisium.pw.toml
+DEL /F /S /Q nuit.pw.toml
+DEL /F /S /Q nuit-interop.pw.toml
 DEL /F /S /Q nvidium.pw.toml
 ::DEL /F /S /Q obsidianui.pw.toml
+DEL /F /S /Q odyssey-lite.pw.toml
 ::DEL /F /S /Q rei.pw.toml
 ::DEL /F /S /Q tweakermore.pw.toml
 DEL /F /S /Q world-preview.pw.toml

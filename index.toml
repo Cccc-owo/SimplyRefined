@@ -98,11 +98,6 @@ hash = "f68ced147cfb20b0bce974411e42106d84557aefb10b77e31ae8ac771954edc1"
 metafile = true
 
 [[files]]
-file = "mods/carpet-fixes.pw.toml"
-hash = "590d03cf3e5e0915028c371ad4f5b7d0ac37b8108f06c242febbdbd131dd56f2"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "b6986c7bdec6840b8a344b4028b0a52be10460f2630223ca88db681b36cd5efa"
 metafile = true
@@ -323,11 +318,6 @@ hash = "cb330220512be399e4423c39f01f56f8bc413f15b0b5a7fa8079699bcdd133bc"
 metafile = true
 
 [[files]]
-file = "mods/litemoretica.pw.toml"
-hash = "5c12b285c249630da94d7eb017a98f598fc58d05d639cf4b1153157a1739f2ea"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
@@ -345,11 +335,6 @@ metafile = true
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
 hash = "1e2fcf06831f91d6c17ba18ae6bc68ad43e6940bd9a26faa0b34a8978fa49a6d"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
@@ -420,11 +405,6 @@ metafile = true
 [[files]]
 file = "mods/nuit.pw.toml"
 hash = "8c3777fcf9615b961fa6c1f44ae002cba0d0d16cf62041ef2fa23e4e481bc56e"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
-hash = "3776494f811e3e5f07a68a6811950fc4a936f41bb1fea10b26bfefcbe87dd880"
 metafile = true
 
 [[files]]
@@ -560,11 +540,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "e2d4d5661d29833946a55d8c49d2b443f39cf218f2ccdc917abb45da0aabe68b"
-metafile = true
-
-[[files]]
-file = "mods/world-preview.pw.toml"
-hash = "b1f1d630a64c3472a5bec1bd69ce764d93838a38350d3fa1b8b87be17a92b6fe"
 metafile = true
 
 [[files]]
