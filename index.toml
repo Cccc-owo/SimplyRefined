@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "9e69ff252f521ee8ecf0df2dd4d851ff62ba1d080772d0c6ec398d8e203210d1"
+hash = "d4809cc0fb5957beb5d715b5d8ffd48dd72aac74fc67a3bd4899cd425f443668"
 metafile = true
 
 [[files]]
