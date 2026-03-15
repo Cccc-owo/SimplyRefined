@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchlevel-langpatch.pw.toml"
-hash = "f0eaa999dd81ab6add37ed9efeee273d42efa985e3a07bd9503f9536ebdc0e6b"
+hash = "0743a052a187c2619dde039132bac9754ec6c01e3d704054d87b2b98279f7d1e"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "4105db403a4d910ac628d73a2cafdb9242d5f59c7b53e5b984fbb2fceb7cd3c5"
+hash = "d7f1ac2142a323bab75a450b96000169fa5d83417ad2952e14588605038bd870"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "35046c4e24fe750c6f5e7531db105eb825e4fa45c182b4301af059b2f26cb239"
+hash = "15a9d89a713cfd48f16183a7b631739609d2268b33516e64db760ce5f4064a1f"
 metafile = true
 
 [[files]]
@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "9e69ff252f521ee8ecf0df2dd4d851ff62ba1d080772d0c6ec398d8e203210d1"
+hash = "1df5e469b74e1c188b7cc78523e0c71d1485064000735d0310b2bc1502a4c612"
 metafile = true
 
 [[files]]
